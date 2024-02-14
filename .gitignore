@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore flagged directory
+/flagged/
+
+# Ignore .cache directory
+/.cache/
